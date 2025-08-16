@@ -1,2 +1,3 @@
 # 2025-TallerGit-SQA-B-Ayana
 MI PRIMERA ACTUALIZACION
+Segunda Actualizacion
